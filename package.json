@@ -1,0 +1,20 @@
+{
+  "name": "pdfgenerator",
+  "version": "1.0.0",
+  "description": "Pdf generator will generate an pdf file from an html template",
+  "main": "sample-htmltopdf.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "midxdle",
+  "license": "ISC",
+  "dependencies": {
+    "html-pdf": "^3.0.1"
+  },
+  "devDependencies": {
+    "@types/html-pdf": "^2.2.1"
+  }
+}
